@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">Full Stack Developer | Cloud & AWS | MERN Stack</h3>
+<h3 align="center">MERN Stack Developer | Cloud & AWS | AI-ML Enthusiast/h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=4DA3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;UI+Focused+Engineer;Always+Learning+New+Tech" />
@@ -56,14 +56,7 @@
 
 ---
 
-### 🎬 Netflix Homepage Clone
-- Pixel-perfect UI clone  
-- Responsive design using pure CSS  
 
-🔗 Repo:  
-👉 https://github.com/KPavan4200/netflixhomepage
-
----
 
 ### 📝 Weekly To-Do List
 - Task management web app  
@@ -73,14 +66,12 @@
 👉 https://github.com/KPavan4200/weekly-to-do-list-project
 
 ---
+### 🛑 Road Sign Detection (AI/ML)
+- CNN-based image classification
+- **TensorFlow + OpenCV**
+- High accuracy real-time detection
 
-### ✍️ Collaborative Editor
-- Real-time multi-user editor  
-- Built with **TypeScript**  
-- Focused on synchronization  
-
-🔗 Repo:  
-👉 https://github.com/KPavan4200/collaborative-editor
+🔗 https://github.com/KPavan4200/road-sign-detection
 
 ---
 
@@ -121,10 +112,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/konderpu-pavan-35982929b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:konderpupavan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
